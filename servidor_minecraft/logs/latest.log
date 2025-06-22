@@ -1,34 +1,34 @@
-[06:26:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:26:34] [ServerMain/INFO]: Loaded 1373 recipes
-[06:26:34] [ServerMain/INFO]: Loaded 1484 advancements
-[06:26:34] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[06:26:34] [Server thread/INFO]: Loading properties
-[06:26:34] [Server thread/INFO]: Default game type: SURVIVAL
-[06:26:34] [Server thread/INFO]: Generating keypair
-[06:26:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:26:34] [Server thread/INFO]: Using epoll channel type
-[06:26:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:26:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:26:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:26:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:26:34] [Server thread/INFO]: Preparing level "world"
-[06:26:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[06:26:37] [Server thread/INFO]: Time elapsed: 2196 ms
-[06:26:37] [Server thread/INFO]: Done (3.161s)! For help, type "help"
-[06:27:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[06:30:51] [Server thread/INFO]: Stopping the server
-[06:30:51] [Server thread/INFO]: Stopping server
-[06:30:51] [Server thread/INFO]: Saving players
-[06:30:51] [Server thread/INFO]: Saving worlds
-[06:30:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:30:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:30:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:30:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:30:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:30:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:30:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:42:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:42:32] [ServerMain/INFO]: Loaded 1373 recipes
+[13:42:32] [ServerMain/INFO]: Loaded 1484 advancements
+[13:42:32] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[13:42:32] [Server thread/INFO]: Loading properties
+[13:42:32] [Server thread/INFO]: Default game type: SURVIVAL
+[13:42:32] [Server thread/INFO]: Generating keypair
+[13:42:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:42:32] [Server thread/INFO]: Using epoll channel type
+[13:42:32] [Server thread/INFO]: Preparing level "world"
+[13:42:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:42:37] [Server thread/INFO]: Time elapsed: 3984 ms
+[13:42:37] [Server thread/INFO]: Done (4.991s)! For help, type "help"
+[13:42:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:42:37] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/IMPERIO1/msx.py<--[HERE]
+[13:42:48] [Server thread/INFO]: Stopping the server
+[13:42:48] [Server thread/INFO]: Stopping server
+[13:42:48] [Server thread/INFO]: Saving players
+[13:42:48] [Server thread/INFO]: Saving worlds
+[13:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:42:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:42:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
